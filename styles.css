@@ -13,3 +13,27 @@ body{
     color:red;
     cursor:crosshair;
 }
+
+.imgHobad{
+    display: flex;
+    justify-content: center;
+}
+
+.imgHobad:hover{
+    background: url('llyod.jpg');
+}
+
+.imgHobad2{
+    display: flex;
+    justify-content: center;
+}
+
+#imgWak{
+    max-width: 15%;
+    height: auto;
+}
+
+.imgHobad2:hover{
+    background: url('wak.jpg');
+    background-size: 10%;
+}
